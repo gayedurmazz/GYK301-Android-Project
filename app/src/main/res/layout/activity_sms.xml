@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".SmsActivity">
+
+
+    <EditText
+        android:id="@+id/et_mesaj"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:ems="10"
+        android:hint="Mesaj Giriniz"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/et_phone"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:ems="10"
+        android:hint="Telefon Numarası Giriniz"
+        android:inputType="phone" />
+    <!-- Hint ile yazıların şeffaf olması sağlandı -->
+    <Button
+        android:id="@+id/send_sms_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color2"
+        android:text="@string/str_send"
+        android:textColor="@color/beyaz" />
+</LinearLayout>

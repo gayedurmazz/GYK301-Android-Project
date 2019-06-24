@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GYK301</string>
+
+    <string name="str_media">Fotoğraf ve Video</string>
+    <string name="str_voice">Ses Kayıt İşlemi</string>
+    <string name="str_map">Haritaya Git</string>
+    <string name="str_web">Web Sayfasına Git</string>
+    <string name="str_sms">SMS Gönder</string>
+    <string name="str_call">Arama Yap</string>
+
+    <string name="str_camera">Resim Çek</string>
+    <string name="str_video">Video Çek</string>
+
+
+    <string name="str_openMap">Rize'ye Git</string>
+    <string name="str_send">Gönder</string>
+
+    <string name="str_kayit">Kayıt</string>
+    <string name="str_durdur">Durdur</string>
+    <string name="str_cal">Çal</string>
+    <string name="str_arama">ARA</string>
+    <string name="str_etnumber">Telefon Numarasını Giriniz</string>
+
+
+</resources>

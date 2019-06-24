@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#1e0ca7</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color1">#e41313</color>
+    <color name="color2">#0aca06</color>
+    <color name="color3">#ff84ae</color>
+    <color name="color4">#fffb01</color>
+    <color name="color5">#0bfbff</color>
+    <color name="color6">#e730ff</color>
+    <color name="color7">#f4bc14</color>
+    <color name="beyaz">#ffffff</color>
+    <color name="siyah">#000000</color>
+</resources>
